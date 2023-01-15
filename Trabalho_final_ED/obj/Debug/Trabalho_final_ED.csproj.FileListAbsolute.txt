@@ -1,0 +1,8 @@
+C:\Users\ppcon041\source\repos\Trabalho_final_ED\Trabalho_final_ED\bin\Debug\Trabalho_final_ED.exe.config
+C:\Users\ppcon041\source\repos\Trabalho_final_ED\Trabalho_final_ED\bin\Debug\Trabalho_final_ED.exe
+C:\Users\ppcon041\source\repos\Trabalho_final_ED\Trabalho_final_ED\bin\Debug\Trabalho_final_ED.pdb
+C:\Users\ppcon041\source\repos\Trabalho_final_ED\Trabalho_final_ED\obj\Debug\Trabalho_final_ED.csproj.AssemblyReference.cache
+C:\Users\ppcon041\source\repos\Trabalho_final_ED\Trabalho_final_ED\obj\Debug\Trabalho_final_ED.csproj.SuggestedBindingRedirects.cache
+C:\Users\ppcon041\source\repos\Trabalho_final_ED\Trabalho_final_ED\obj\Debug\Trabalho_final_ED.csproj.CoreCompileInputs.cache
+C:\Users\ppcon041\source\repos\Trabalho_final_ED\Trabalho_final_ED\obj\Debug\Trabalho_final_ED.exe
+C:\Users\ppcon041\source\repos\Trabalho_final_ED\Trabalho_final_ED\obj\Debug\Trabalho_final_ED.pdb
